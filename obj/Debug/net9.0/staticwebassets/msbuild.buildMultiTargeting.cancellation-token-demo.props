@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\cancellation-token-demo.props" />
+</Project>
